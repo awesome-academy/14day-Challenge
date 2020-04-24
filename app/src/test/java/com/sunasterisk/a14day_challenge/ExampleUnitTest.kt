@@ -1,4 +1,4 @@
-package com.example.a14_daychallenge
+package com.sunasterisk.a14day_challenge
 
 import org.junit.Test
 
