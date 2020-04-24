@@ -67,7 +67,8 @@ fastlane/readme.md
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
-/.idea
+/.idea/.name
+/.idea/codeStyles
 .DS_Store
 /build
 /captures
