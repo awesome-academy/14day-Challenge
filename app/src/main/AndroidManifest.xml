@@ -15,6 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="AllowBackup">
+        <activity android:name=".ui.tutorial.TutorialActivity" />
         <activity android:name=".ui.ExerciseActivity" />
         <activity android:name=".ui.process.ProcessActivity" />
         <activity android:name=".ui.listExercise.ListExercisesActivity" />
